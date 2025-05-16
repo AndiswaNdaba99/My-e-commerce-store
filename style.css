@@ -1,0 +1,30 @@
+h1{
+    color: blueviolet;
+    font-family: cursive;
+}
+
+p{
+    color:darkred;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type:lower-greek;
+}
+
+#menu-box a{
+    text-decoration:none;
+    background-color: aquamarine;
+    padding: 5px;
+    font-size: large;
+}
+
+#menu-box a:hover{
+   background-color: aqua; 
+   color: #ffffff;
+   font-family: Arial, Helvetica, sans-serif;
+}
